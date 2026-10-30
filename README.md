@@ -6,8 +6,8 @@ Installers for **Media Tools**, a small app that prepares Spotify and YouTube me
 
 Open the [latest release](https://github.com/Markus344/media-tools-releases/releases/latest) and download the file for your computer:
 
-- **Windows 10/11 (64-bit):** `Media Tools Setup.exe`. Run it, then open Media Tools from the Start menu or the desktop.
-- **macOS 14 or newer (Apple Silicon or Intel):** `Media Tools Mac.zip`. Unzip it, drag **Media Tools.app** into Applications, then open it.
+- **Windows 10/11 (64-bit):** `Media-Tools-Setup-<version>.exe`. Run it, then open Media Tools from the Start menu or the desktop.
+- **macOS 14 or newer (Apple Silicon or Intel):** `Media-Tools-Mac-<version>.zip`. Unzip it, drag **Media Tools.app** into Applications, then open it.
 
 Each release also lists the SHA-256 checksums of its files in `SHA256SUMS.txt`.
 
