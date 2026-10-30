@@ -1,6 +1,6 @@
 # Media Tools — downloads
 
-Installers for **Media Tools**, a small app that prepares Spotify and YouTube media as local files for ProPresenter and other presentation or audio software. It runs on your own computer and opens in your web browser.
+Installers for **Media Tools**, a small app that prepares Spotify and YouTube media as local files for ProPresenter and other presentation or audio software, and turns chord sheets into ProPresenter slide text. It runs on your own computer, opens in your web browser and is in Norwegian.
 
 ## Download
 
@@ -24,7 +24,7 @@ Do not turn off your computer's security protections.
 
 From version 2.6, Media Tools tells you when a new version is published here. Download the new installer and run it (Windows), or replace the app in Applications (Mac). Your settings and downloaded media are kept.
 
-If YouTube downloads stop working, first choose **Update download engine** under **Output** in the app.
+If YouTube downloads stop working, first choose **Oppdater nedlastingsmotoren** (update the download engine) under **Nedlastingsmotor** in the app.
 
 ## Please note
 
